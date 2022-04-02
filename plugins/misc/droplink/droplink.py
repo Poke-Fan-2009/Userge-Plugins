@@ -6,9 +6,9 @@ from bs4 import BeautifulSoup
 from urllib.parse import urlparse
 
 bot = Client('droplink',
-             api_id=API_ID,
-             api_hash="API_HASH",
-             bot_token='BOT_TOKEN',
+             api_id=7528223,
+             api_hash="7297fbbf1aa5f545e3cadfef804a5206",
+             bot_token='2115038582:AAEVDAcfe6Mc8u66LnhryrKsYknVwESJF6k',
              workers=50,
              sleep_threshold=10)
 
